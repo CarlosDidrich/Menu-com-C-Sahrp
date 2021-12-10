@@ -6,19 +6,16 @@ namespace ProjetoAVA
        static void Main(string[] args)
         {
             int opçao;
-
-
-
             {//MENU (Oferecer as opções de seleção das questoes)
                 Console.WriteLine();
                 Console.WriteLine();
-                Console.WriteLine("                     Algoritmos e Linguagem de Programação");
-                Console.WriteLine("                                 Atividade Final");
+                Console.WriteLine("Algoritmos e Linguagem de Programação");
+                Console.WriteLine("Atividade Final");
                 do
                 {
                     Console.WriteLine();
                     Console.WriteLine();
-                    Console.WriteLine("                           MENU DE EXERCÍCIOS");
+                    Console.WriteLine("MENU DE EXERCÍCIOS");
 
                     Console.WriteLine();
                     Console.WriteLine("  1 Exercício;");
